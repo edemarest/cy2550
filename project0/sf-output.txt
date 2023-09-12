@@ -1,0 +1,20 @@
+..............                                  
+            ..,;:ccc,.                           ella@kali
+          ......''';lxO.                         OS: Kali Linux 
+.....''''..........,:ld;                         Kernel: aarch64 Linux 6.3.0-kali1-arm64
+           .';;;:::;,,.x,                        Uptime: 21m
+      ..'''.            0Xxoc:,.  ...            Packages: 2653
+  ....                ,ONkc;,;cokOdc',.          Shell: zsh 5.9
+ .                   OMo           ':ddo.        Resolution: 1280x800
+                    dMc               :OO;       DE: Xfce
+                    0M.                 .:o.     WM: Xfwm4
+                    ;Wd                          WM Theme: Kali-Dark
+                     ;XO,                        GTK Theme: Kali-Dark [GTK2]
+                       ,d0Odlc;,..               Icon Theme: Flat-Remix-Blue-Dark
+                           ..',;:cdOOd::,.       Font: Cantarell 11
+                                    .:d;.':;.    Disk: 12G / 64G (20%)
+                                       'd,  .'   CPU: 6x 0x00 -
+                                         ;l   .. GPU: 
+                                          .o     RAM: 698MiB / 3920MiB
+                                            c   
+                                            .'  

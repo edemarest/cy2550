@@ -1,0 +1,173 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 20:50 ?        00:00:00 /sbin/init splash
+root           2       0  0 20:50 ?        00:00:00 [kthreadd]
+root           3       2  0 20:50 ?        00:00:00 [rcu_gp]
+root           4       2  0 20:50 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 20:50 ?        00:00:00 [slub_flushwq]
+root           6       2  0 20:50 ?        00:00:00 [netns]
+root           8       2  0 20:50 ?        00:00:00 [kworker/0:0H-events_high
+root          10       2  0 20:50 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 20:50 ?        00:00:00 [rcu_tasks_rude_kthread]
+root          12       2  0 20:50 ?        00:00:00 [rcu_tasks_trace_kthread]
+root          13       2  0 20:50 ?        00:00:00 [ksoftirqd/0]
+root          14       2  0 20:50 ?        00:00:00 [rcu_sched]
+root          15       2  0 20:50 ?        00:00:00 [migration/0]
+root          16       2  0 20:50 ?        00:00:00 [kworker/0:1-events]
+root          17       2  0 20:50 ?        00:00:00 [cpuhp/0]
+root          18       2  0 20:50 ?        00:00:00 [cpuhp/1]
+root          19       2  0 20:50 ?        00:00:00 [migration/1]
+root          20       2  0 20:50 ?        00:00:00 [ksoftirqd/1]
+root          22       2  0 20:50 ?        00:00:00 [kworker/1:0H-events_high
+root          23       2  0 20:50 ?        00:00:00 [cpuhp/2]
+root          24       2  0 20:50 ?        00:00:00 [migration/2]
+root          25       2  0 20:50 ?        00:00:00 [ksoftirqd/2]
+root          27       2  0 20:50 ?        00:00:00 [kworker/2:0H-events_high
+root          28       2  0 20:50 ?        00:00:00 [cpuhp/3]
+root          29       2  0 20:50 ?        00:00:00 [migration/3]
+root          30       2  0 20:50 ?        00:00:00 [ksoftirqd/3]
+root          32       2  0 20:50 ?        00:00:00 [kworker/3:0H-events_high
+root          33       2  0 20:50 ?        00:00:00 [cpuhp/4]
+root          34       2  0 20:50 ?        00:00:00 [migration/4]
+root          35       2  0 20:50 ?        00:00:00 [ksoftirqd/4]
+root          37       2  0 20:50 ?        00:00:00 [kworker/4:0H-events_high
+root          38       2  0 20:50 ?        00:00:00 [cpuhp/5]
+root          39       2  0 20:50 ?        00:00:00 [migration/5]
+root          40       2  0 20:50 ?        00:00:00 [ksoftirqd/5]
+root          42       2  0 20:50 ?        00:00:00 [kworker/5:0H-events_high
+root          44       2  0 20:50 ?        00:00:00 [kdevtmpfs]
+root          45       2  0 20:50 ?        00:00:00 [inet_frag_wq]
+root          46       2  0 20:50 ?        00:00:00 [kauditd]
+root          47       2  0 20:50 ?        00:00:00 [khungtaskd]
+root          48       2  0 20:50 ?        00:00:00 [oom_reaper]
+root          50       2  0 20:50 ?        00:00:00 [writeback]
+root          51       2  0 20:50 ?        00:00:00 [kcompactd0]
+root          52       2  0 20:50 ?        00:00:00 [ksmd]
+root          53       2  0 20:50 ?        00:00:00 [khugepaged]
+root          54       2  0 20:50 ?        00:00:00 [kintegrityd]
+root          55       2  0 20:50 ?        00:00:00 [kblockd]
+root          56       2  0 20:50 ?        00:00:00 [blkcg_punt_bio]
+root          57       2  0 20:50 ?        00:00:00 [kworker/1:1-events]
+root          59       2  0 20:50 ?        00:00:00 [tpm_dev_wq]
+root          60       2  0 20:50 ?        00:00:00 [edac-poller]
+root          61       2  0 20:50 ?        00:00:00 [devfreq_wq]
+root          62       2  0 20:50 ?        00:00:00 [watchdogd]
+root          63       2  0 20:50 ?        00:00:00 [kworker/1:1H-kblockd]
+root          64       2  0 20:50 ?        00:00:00 [kswapd0]
+root          65       2  0 20:50 ?        00:00:00 [kworker/u12:2-flush-254:
+root          70       2  0 20:50 ?        00:00:00 [kworker/3:1-events]
+root          72       2  0 20:50 ?        00:00:00 [kthrotld]
+root          74       2  0 20:50 ?        00:00:00 [irq/49-ACPI:Ged]
+root          75       2  0 20:50 ?        00:00:00 [acpi_thermal_pm]
+root          76       2  0 20:50 ?        00:00:00 [xenbus_probe]
+root          77       2  0 20:50 ?        00:00:00 [mld]
+root          78       2  0 20:50 ?        00:00:00 [ipv6_addrconf]
+root          83       2  0 20:50 ?        00:00:00 [kstrp]
+root          88       2  0 20:50 ?        00:00:00 [zswap-shrink]
+root          89       2  0 20:50 ?        00:00:00 [kworker/u13:0]
+root         128       2  0 20:50 ?        00:00:00 [kworker/5:1-mm_percpu_wq
+root         159       2  0 20:50 ?        00:00:00 [kworker/2:1H-kblockd]
+root         175       2  0 20:50 ?        00:00:00 [kworker/3:1H-kblockd]
+root         180       2  0 20:50 ?        00:00:00 [kworker/0:1H-kblockd]
+root         181       2  0 20:50 ?        00:00:00 [kworker/5:1H-kblockd]
+root         186       2  0 20:50 ?        00:00:00 [kworker/4:1H-kblockd]
+root         193       2  0 20:50 ?        00:00:00 [kworker/5:2-events]
+root         264       2  0 20:50 ?        00:00:00 [jbd2/vda2-8]
+root         265       2  0 20:50 ?        00:00:00 [ext4-rsv-conver]
+root         284       2  0 20:50 ?        00:00:00 [hwrng]
+root         324       1  0 20:50 ?        00:00:00 /lib/systemd/systemd-jour
+root         339       2  0 20:50 ?        00:00:00 [psimon]
+root         361       2  0 20:50 ?        00:00:00 [kworker/2:3-mm_percpu_wq
+root         366       1  0 20:50 ?        00:00:00 /lib/systemd/systemd-udev
+root         373       2  0 20:50 ?        00:00:00 [psimon]
+root         528       2  0 20:50 ?        00:00:00 [kworker/4:4-cgroup_destr
+root         531       2  0 20:50 ?        00:00:00 [kworker/4:5-mm_percpu_wq
+root         533       1  0 20:50 ?        00:00:00 /usr/sbin/haveged --Foreg
+systemd+     534       1  0 20:50 ?        00:00:00 /lib/systemd/systemd-time
+root         553       2  0 20:50 ?        00:00:00 [rpciod]
+root         555       2  0 20:50 ?        00:00:00 [xprtiod]
+root         565       2  0 20:50 ?        00:00:00 [psimon]
+root         571       1  0 20:50 ?        00:00:00 /usr/sbin/cron -f
+message+     572       1  0 20:50 ?        00:00:00 /usr/bin/dbus-daemon --sy
+polkitd      574       1  0 20:50 ?        00:00:00 /usr/lib/polkit-1/polkitd
+root         575       1  0 20:50 ?        00:00:00 /usr/sbin/qemu-ga
+root         576       1  0 20:50 ?        00:00:00 /lib/systemd/systemd-logi
+root         585       1  0 20:50 ?        00:00:00 /usr/sbin/NetworkManager 
+root         591       2  0 20:50 ?        00:00:00 [psimon]
+root         604       1  0 20:50 ?        00:00:00 /usr/sbin/ModemManager
+root         614       1  0 20:50 ?        00:00:00 /usr/sbin/lightdm
+root         634     614  1 20:50 tty7     00:00:15 /usr/lib/xorg/Xorg :0 -se
+root         636       1  0 20:50 tty1     00:00:00 /sbin/agetty -o -p -- \u 
+root         638       2  0 20:50 ?        00:00:00 [kworker/3:2-mm_percpu_wq
+root         639       1  0 20:50 ?        00:00:00 /sbin/agetty -o -p -- \u 
+root         751       2  0 20:50 ?        00:00:00 [psimon]
+rtkit        783       1  0 20:50 ?        00:00:00 /usr/libexec/rtkit-daemon
+root         803       2  0 20:50 ?        00:00:00 [scsi_eh_0]
+root         804       2  0 20:50 ?        00:00:00 [scsi_tmf_0]
+root         805       2  0 20:50 ?        00:00:00 [usb-storage]
+root         806       2  0 20:50 ?        00:00:00 [uas]
+root         863     614  0 20:50 ?        00:00:00 lightdm --session-child 1
+ella         870       1  0 20:50 ?        00:00:00 /lib/systemd/systemd --us
+ella         871     870  0 20:50 ?        00:00:00 (sd-pam)
+root         885       2  0 20:50 ?        00:00:00 [psimon]
+ella         888     870  0 20:50 ?        00:00:00 /usr/bin/pipewire
+ella         889     870  0 20:50 ?        00:00:00 /usr/bin/pipewire -c filt
+ella         890     870  0 20:50 ?        00:00:00 /usr/bin/wireplumber
+ella         891     870  0 20:50 ?        00:00:00 /usr/bin/pipewire-pulse
+ella         892     870  0 20:50 ?        00:00:00 /usr/bin/dbus-daemon --se
+ella         894     870  0 20:50 ?        00:00:00 /usr/bin/gnome-keyring-da
+ella         918     863  0 20:50 ?        00:00:00 xfce4-session
+ella         962     918  0 20:50 ?        00:00:00 /usr/bin/ssh-agent x-sess
+ella         972     870  0 20:50 ?        00:00:00 /usr/libexec/at-spi-bus-l
+ella         979     972  0 20:50 ?        00:00:00 /usr/bin/dbus-daemon --co
+ella         990     870  0 20:50 ?        00:00:00 /usr/libexec/at-spi2-regi
+ella        1003     870  0 20:50 ?        00:00:00 /usr/bin/gpg-agent --supe
+ella        1005     918  0 20:50 ?        00:00:04 xfwm4
+ella        1009     870  0 20:50 ?        00:00:00 /usr/libexec/gvfsd
+ella        1015     870  0 20:50 ?        00:00:00 /usr/libexec/gvfsd-fuse /
+ella        1043     918  0 20:50 ?        00:00:00 xfsettingsd
+root        1047       1  0 20:50 ?        00:00:00 /usr/libexec/upowerd
+ella        1053     918  0 20:50 ?        00:00:01 xfce4-panel
+ella        1058     918  0 20:50 ?        00:00:03 Thunar --daemon
+ella        1064     918  0 20:50 ?        00:00:01 xfdesktop
+ella        1068    1053  0 20:50 ?        00:00:00 /usr/lib/aarch64-linux-gn
+ella        1072    1053  0 20:50 ?        00:00:00 /usr/lib/aarch64-linux-gn
+ella        1073    1053  0 20:50 ?        00:00:06 /usr/lib/aarch64-linux-gn
+ella        1074    1053  0 20:50 ?        00:00:00 /usr/lib/aarch64-linux-gn
+ella        1075    1053  0 20:50 ?        00:00:00 /usr/lib/aarch64-linux-gn
+ella        1076    1053  0 20:50 ?        00:00:00 /usr/lib/aarch64-linux-gn
+ella        1077    1053  0 20:50 ?        00:00:00 /usr/lib/aarch64-linux-gn
+ella        1120     870  0 20:50 ?        00:00:00 /usr/lib/aarch64-linux-gn
+ella        1135     918  0 20:50 ?        00:00:00 light-locker
+ella        1136     918  0 20:50 ?        00:00:00 /usr/lib/policykit-1-gnom
+ella        1147       1  0 20:50 ?        00:00:00 xcape -e Super_L Control_
+ella        1152     918  0 20:50 ?        00:00:00 xfce4-power-manager
+ella        1158     918  0 20:50 ?        00:00:00 nm-applet
+ella        1180     918  0 20:50 ?        00:00:00 xiccd
+ella        1188     918  0 20:50 ?        00:00:00 /usr/bin/python3 /usr/bin
+ella        1189     870  0 20:50 ?        00:00:00 /usr/libexec/dconf-servic
+ella        1191     918  0 20:50 ?        00:00:00 /usr/libexec/geoclue-2.0/
+ella        1208       1  0 20:50 ?        00:00:00 /usr/bin/spice-vdagent
+colord      1217       1  0 20:50 ?        00:00:00 /usr/libexec/colord
+root        1226       1  0 20:50 ?        00:00:03 /usr/sbin/spice-vdagentd
+ella        1274     870  0 20:50 ?        00:00:00 /usr/libexec/gvfs-udisks2
+root        1280       1  0 20:50 ?        00:00:00 /usr/libexec/udisks2/udis
+ella        1306     870  0 20:50 ?        00:00:00 /usr/libexec/gvfs-goa-vol
+ella        1316     870  0 20:50 ?        00:00:00 /usr/libexec/gvfs-gphoto2
+ella        1325     870  0 20:50 ?        00:00:00 /usr/libexec/gvfs-mtp-vol
+ella        1331     870  0 20:50 ?        00:00:00 /usr/libexec/gvfs-afc-vol
+ella        1356    1009  0 20:50 ?        00:00:00 /usr/libexec/gvfsd-trash 
+ella        1365     870  0 20:50 ?        00:00:00 /usr/libexec/gvfsd-metada
+ella        1388     870  0 20:50 ?        00:00:00 /usr/libexec/bluetooth/ob
+root        5933       2  0 20:59 ?        00:00:00 [kworker/u12:1-events_unb
+ella        6456     870  0 21:00 ?        00:00:00 /usr/lib/aarch64-linux-gn
+root        7876       2  0 21:02 ?        00:00:00 [kworker/0:2-events]
+root        9064       2  0 21:05 ?        00:00:00 [kworker/u12:0-flush-254:
+root        9092       2  0 21:05 ?        00:00:00 [kworker/1:0]
+root        9415       2  0 21:05 ?        00:00:00 [kworker/2:1-events_freez
+ella        9862     870  0 21:06 ?        00:00:00 /usr/lib/aarch64-linux-gn
+root       10420       2  0 21:07 ?        00:00:00 [kworker/0:0-events]
+root       12177       2  0 21:10 ?        00:00:00 [kworker/2:0-events]
+root       12902       2  0 21:11 ?        00:00:00 [kworker/u12:3-events_unb
+ella       13245       1  0 21:12 ?        00:00:00 /usr/bin/qterminal
+ella       13248   13245  0 21:12 pts/0    00:00:00 /usr/bin/zsh
+ella       13418   13248  0 21:12 pts/0    00:00:00 ps -ef
